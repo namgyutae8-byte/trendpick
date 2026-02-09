@@ -1,6 +1,6 @@
 baseURL: "https://namgyutae8-byte.github.io/trendpick/"
 languageCode: "ko-kr"
-title: "Trend Pick"
+title: "Trend Pick 🔥"
 theme: "PaperMod"
 
 enableRobotsTXT: true
@@ -15,7 +15,7 @@ minify:
 
 params:
   env: production
-  title: "Trend Pick"
+  title: "Trend Pick 🔥"
   description: "최신 트렌드 아이템 정보, 전기장판, 겨울필수템"
   keywords: ["Blog", "Portfolio", "PaperMod"]
   author: Trend Hunter
