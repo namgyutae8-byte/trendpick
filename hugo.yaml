@@ -2,3 +2,22 @@ baseURL: "https://namgyutae8-byte.github.io/trendpick/"
 languageCode: "ko-kr"
 title: "Trend Pick"
 theme: "PaperMod"
+params:
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  comments: false
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
