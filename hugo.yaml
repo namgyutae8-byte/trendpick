@@ -3,7 +3,7 @@ languageCode: "ko-kr"
 title: "Trend Pick 🚀"
 theme: "PaperMod"
 
-enableRobotsTXT: true
+enableRobotsTXT: false
 buildDrafts: false
 buildFuture: false
 buildExpired: false
