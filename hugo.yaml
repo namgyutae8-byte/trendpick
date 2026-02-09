@@ -1,7 +1,4 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
-theme: PaperMod
-baseURL: 'https://namgyutae8-byte.github.io/trendpick/'
-languageCode: 'ko-kr'
-title: 'Trend Pick'
+baseURL: "https://namgyutae8-byte.github.io/trendpick/"
+languageCode: "ko-kr"
+title: "Trend Pick"
+theme: "PaperMod"
