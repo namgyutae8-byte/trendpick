@@ -1,1 +1,1 @@
-# trendpick
+# Trend Pick Blog
